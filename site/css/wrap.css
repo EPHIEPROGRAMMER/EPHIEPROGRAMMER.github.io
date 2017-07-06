@@ -1,0 +1,40 @@
+*{
+text-decoration:none;color:white;font-family: 'Nunito', sans-serif;}
+@font-face {font-family: wingding;src: url("https://www.dropbox.com/pri/get/public/wingding.ttf");}
+
+#wrap{background:#262626;
+padding-top: 200px;
+}
+
+#wra{
+    padding-bottom: 32px;
+}
+.wrapper table {display:inline-block;border-collapse: separate;border-spacing: 3px 6px;}
+
+.wrapper{
+  width:1220px;box-shadow:0.5px 3px 1px #262626,inset 0.1px 0.10px 1px white;padding:10px;
+  background:#696969;
+  margin:0 auto;
+  border-radius:10px;
+}
+
+.wrapper table td a {font-size:15px;}
+.wrapper table td a span {font-size:12px;}
+
+.wrapper table td:active {box-shadow:0.5px 3px 0.2px #262626,inset 0.1px 0.10px 1px white;}
+
+
+.wrapper table td{
+  background:#262626;
+  padding:10px;
+  width:50px;
+  height:60px;
+  text-align:center;
+  margin:10px;
+  border-radius:10px;
+  box-shadow:0.01px 5px 0.2px #262626,inset 0.1px 0.10px 1px white;
+}
+
+
+
+style=color:#5886a6;
